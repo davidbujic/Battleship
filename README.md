@@ -8,6 +8,11 @@ Igrica je napravljena tako da korisnik ima 5 pokusaja da na tabli 5x5 pogodi mes
 ## Prerequisites
 Za ovu igricu su potrebni `GitHub account` kao i funkcija `randint` iz biblioteke `random`. Funkcija `randint` se dodaje komadnom `from random import randint`. IDE za rad je `IDLE Python`.
 
+### Skills
+1. ***pytest***
+2. ***funkcije sleep, strftime i localtime iz biblioteke time***
+3. ***funkcija randint iz biblioteke random***
+
 ## Installation
 Projekat se pokrece pomocu `IDLE Python-a`. Projekat se preuzima sa `GitHub-a` ili pokretanjem komande `git clone https://github.com/davidbujic/Battleship`.
 
@@ -19,3 +24,4 @@ Pokretanje testova se vrsi pokretanjem fajla `battleship.py` u `Shell-u IDLE Pyt
 
 ## Versions
 1. Osnovna verzija
+2. Dodati detalji u Skills
